@@ -16,7 +16,9 @@
 
 # Basta executar para rodar o docker
  - docker-compose up -d
+
  **parametro -d serve para rodar em backgroud**
+
  **use docker-compose down para parar o docker**
 
 # Terá acesso ao site acessando:
